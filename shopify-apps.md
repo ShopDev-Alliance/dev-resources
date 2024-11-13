@@ -38,3 +38,17 @@
 - What does the app do? Delete duplicate products by SKU, barcode, title, or combination.
 - Does the app have a development store option? Yes
 - Limitations? It is possible to delete 100 products in a Free plan.
+
+### [FoxSell Bundles Plus](https://apps.shopify.com/foxsell-bundles-plus?utm_source=sda-github&utm_medium=dev-resources&utm_campaign=apps)
+
+- Recommended by user: @dev-prakhar
+- What does the app do?
+  * Bundles using Cart Transform Functions
+  * Fixed Bundles
+  * Bundle Builders with Tiered Discounts
+  * Products bypassing 100 variants and 3 options limits using Mix and Match
+  * Custom Design for Bundle Pages
+- Does the app have a development store option? Yes
+- Limitations?
+  * Doesn't work with Subscriptions (Shopify doesn't support Subscriptions with Cart Transform)
+  * Mix and Match doesn't work with POS
