@@ -41,7 +41,7 @@
 
 ### [FoxSell Bundles Plus](https://apps.shopify.com/foxsell-bundles-plus?utm_source=sda-github&utm_medium=dev-resources&utm_campaign=apps)
 
-- Recommended by user: @dev-prakhar
+- Recommended by user: @dev-prakhar + @taylor
 - What does the app do?
   * Bundles using Cart Transform Functions
   * Fixed Bundles
@@ -55,7 +55,7 @@
 
 ### [Ablestar Bulk Product Editor](https://apps.shopify.com/bulk-product-editor?utm_source=shopdev-alliance&utm_medium=resources&utm_campaign=apps)
 
-- Recommended by user: @d-beck
+- Recommended by user: @d-beck + @taylor
 - What does the app do?
   * Bulk edit products with live previews, edit logs, and undos
   * Edits can either be configured in-app or run from a custom spreadsheet
