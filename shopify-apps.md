@@ -77,3 +77,57 @@
 - Limitations?
   * Scanning for broken links might not work on headless Shopify stores
   * Wildcard redirects will not work on headless Shopify stores
+
+### [Pimsical Stock Take](https://apps.shopify.com/stock-take-inventory-count-1)
+
+- Recommended by user: @jordanfinners
+- What does the app do?
+  * Create and manage stock takes
+  * Allow scanning and inventory counts via Shopify POS
+  * Scanning on multiple devices, at multiple locations at the same time
+  * Purchase Orders (Coming Soon)
+- Does the app have a development store option?
+  * Yes, you get full access.
+- Limitations?
+  * Requires Shopify POS to scan products.
+
+### [Pimsical Staff Discounts](https://apps.shopify.com/staff-discount)
+
+- Recommended by user: @jordanfinners
+- What does the app do?
+  * Create automatic staff discounts on Online and POS Checkouts
+  * Manage staff using Shopify Customer tags
+  * Apply discount limits and validation to aid compliance
+- Does the app have a development store option?
+  * Yes, you get full access.
+- Limitations?
+  * Max of 40 line items in the cart for discount to be applied
+
+### [Pimsical Retail OS](https://apps.shopify.com/retail-os)
+
+- Recommended by user: @jordanfinners
+- What does the app do?
+  * Create and manage stock room/back-office requests from shop floor
+  * Report on staff performance for requests and stock picks
+  * Automatically move inventory between statuses (e.g. faulty/reserved) as the stock is moved by staff through the request process
+- Does the app have a development store option?
+  * Yes, you get full access.
+- Limitations?
+  * Requires Shopify POS to scan products.
+  * Currently in Beta with release in Jan.
+
+### [Pimsical Warehouse](https://www.pimsical.app/apps/warehouse/)
+
+- Recommended by user: @jordanfinners
+- What does the app do?
+  * Integrate with PeopleVox WMS (Warehouse Management System)
+  * Out of the box integration, with simple setup
+  * Supports product and order sync down to the warehouse
+  * Supports inventory and fulfilments back to Shopify
+  * Integrates with Inventory Planner for Purchase Orders
+  * Peak mode for black friday or sale periods, handling large spikes of several thousand orders in 10 min period
+- Does the app have a development store option?
+  * No, but demo available
+- Limitations?
+  * Not currently on the Shopify App Store due to warehouse company not allowing it
+  * Warehouse schema predetermined by us
