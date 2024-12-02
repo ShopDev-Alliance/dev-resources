@@ -131,3 +131,42 @@
 - Limitations?
   * Not currently on the Shopify App Store due to warehouse company not allowing it
   * Warehouse schema predetermined by us
+
+### [Platmart Color Swatches](https://apps.shopify.com/fast-product-colors?utm_source=sda-github&utm_medium=dev-resources&utm_campaign=apps)
+
+- Recommended by user: @kirillplatonov
+- What does the app do?
+  * Best alternative to Combined Listings accessible on all plans
+  * Links related products of different color/style with swatches
+  * Displays swatches on product and collection pages
+  * Supports bulk grouping via CSV, collections, and API
+  * Scalable to thousands of groups (largest client has 11k groups)
+- Does the app have a development store option? Yes
+- Limitations?
+  * Doesn't work for variants (yet)
+
+### [Platmart Bulk Price Editor](https://apps.shopify.com/fast-bulk-price-editor?utm_source=sda-github&utm_medium=dev-resources&utm_campaign=apps)
+
+- Recommended by user: @kirillplatonov
+- What does the app do?
+  * Bulk edits product and market prices
+  * Runs scheduled sales
+  * Bulk edits cost per item and margin
+  * 1-click rollback for any price changes
+  * Works for large inventories (up to 150k products per task/sale)
+- Does the app have a development store option? Yes
+- Limitations?
+  * No recurring sales
+
+### [Platmart Size Charts](https://apps.shopify.com/platmart-size-charts?utm_source=sda-github&utm_medium=dev-resources&utm_campaign=apps)
+
+- Recommended by user: @kirillplatonov
+- What does the app do?
+  * Adds size guides to products
+  * Blazing fast widget built with metafields/metaobjects
+  * Auto-assigns size charts to new products matching condition
+  * Supports localization and markets
+  * Automatically converts inches and centimeters
+- Does the app have a development store option? Yes
+- Limitations?
+  * Doesn't have size recommender (yet)
