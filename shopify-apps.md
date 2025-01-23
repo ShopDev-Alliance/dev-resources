@@ -170,3 +170,32 @@
 - Does the app have a development store option? Yes
 - Limitations?
   * Doesn't have size recommender (yet)
+
+### [STOQ: Preorders, Back in stock alerts](https://apps.shopify.com/back-in-stock-restock-alerts?utm_source=sda-github&utm_medium=dev-resources&utm_campaign=apps)
+
+- Recommended by user: @sandesh
+- What does the app do?
+  * Unlock sales from out-of-stock products with Preorders & Back in stock alerts
+  * Preorders: Set up preorders & backorders + offer partial payments on unlimited products
+  * Back-in-stock alerts: Let customers sign up with 'Notify me' button and notify them instantly when you restock
+  * Analytics & reports
+  * Markets & POS support built-in
+- Does the app have a development store option?
+  * No, but reach out to Support and get 30-day trial on any plan for dev stores.
+- Limitations?
+  * Cannot offer multiple payment options (yet)
+
+### [Filemonk: Digital Downloads](https://apps.shopify.com/filemonk?utm_source=sda-github&utm_medium=dev-resources&utm_campaign=apps)
+
+- Recommended by user: @sandesh
+- What does the app do?
+  * Sell digital products like ebooks, music, software, licence keys etc on Shopify
+  * Supports all file types
+  * Instant email delivery of downloads
+  * Fast download access with extensions for Order Status, Thank you & Customer Accounts
+  * Download limits & PDF watermarking to protect from unauthorized sharing
+- Does the app have a development store option?
+  * No, but reach out to Support and get 30-day trial on any plan for dev stores.
+- Limitations?
+  * No support for subscription-based digital products
+ 
