@@ -199,3 +199,15 @@
 - Limitations?
   * No support for subscription-based digital products
  
+### [Yakk: Bulk Gifting](https://apps.shopify.com/yakk?utm_source=sda-github&utm_medium=dev-resources&utm_campaign=apps)
+
+- Recommended by user: @kinngh
+- What does the app do?
+  * Offer sending 100s of gifts from a single order
+  * Allow self-serve bulk orders from your Shopify storefront or create them from the app in Shopify Admin
+  * No revenue share
+- Does the app have a development store option?
+  * Yes, reach out to in-app support to enable.
+- Limitations?
+  * No free plan
+  * Doesn't support gift cards
