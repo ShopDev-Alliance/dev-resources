@@ -7,6 +7,8 @@
 - Liquid Dev Docs: <https://shopify.dev/docs/api/liquid>
 - An overview of Liquid: <https://www.shopify.com/partners/blog/115244038-an-overview-of-liquid-shopifys-templating-language>
 - Liquid REPL: <https://shopify-liquid-repl.tomblanchard.co.uk/>
+- Section Schema Generator: <https://codeinshopify.com/section-schema-generator/>
+- Section Schema Builder Tool: <https://encircletechnologies.com/shopify-schema-builder-tool/>
 
 ## Themes
 
