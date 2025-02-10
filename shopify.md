@@ -29,6 +29,13 @@
 - Liquid Code Examples: <https://shopify.github.io/liquid-code-examples/>
 - Workshops: <https://workshops.shopify.dev/>
 
+## Boilerplates
+
+### JavaScript
+
+- Next.js, Prisma ORM boilerplate: <https://github.com/kinngh/shopify-nextjs-prisma-app>
+- Express.js, React (+ Vite), MongoDB boilerplate: <https://github.com/kinngh/shopify-node-express-mongodb-app>
+
 ## Resources
 
 - Shopify Developer Blog: <https://www.shopify.com/partners/blog>
