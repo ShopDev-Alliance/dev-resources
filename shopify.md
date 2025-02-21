@@ -9,6 +9,7 @@
 - Liquid REPL: <https://shopify-liquid-repl.tomblanchard.co.uk/>
 - Section Schema Generator: <https://codeinshopify.com/section-schema-generator/>
 - Section Schema Builder Tool: <https://encircletechnologies.com/shopify-schema-builder-tool/>
+- UI Elements Generator: <https://ui-elements-generator.myshopify.com/>
 
 ## Themes
 
