@@ -7,6 +7,8 @@
 - Images from Shopify - <https://burst.shopify.com/>
 - Pexels - <https://pexels.com/>
 - Optimise Images - <https://squoosh.app/>
+- Image Editing -<https://iloveimg.com>
+- Background Remover -<https://www.remove.bg>
 
 ## Videos
 
@@ -18,3 +20,4 @@
 - fffuel - <https://www.fffuel.co/>
 - Gradiants - <https://webgradients.com/>
 - Blob Generator - <https://www.blobmaker.app/>
+
