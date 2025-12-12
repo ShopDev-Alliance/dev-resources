@@ -183,7 +183,7 @@
 - Does the app have a development store option?
   * No, but reach out to Support and get 30-day trial on any plan for dev stores.
 - Limitations?
-  * Cannot offer multiple payment options (yet)
+  * General Shopify limitations around preorders :)
 
 ### [Filemonk: Digital Downloads](https://apps.shopify.com/filemonk?utm_source=sda-github&utm_medium=dev-resources&utm_campaign=apps)
 
