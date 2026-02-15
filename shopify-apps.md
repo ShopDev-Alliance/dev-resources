@@ -211,3 +211,14 @@
 - Limitations?
   * No free plan
   * Doesn't support gift cards
+
+### [Promo Party Pro](https://apps.shopify.com/promo-party-fgwp?utm_source=sda-github&utm_medium=dev-resources&utm_campaign=apps)
+- Recommended by user: @karlMeisterheim and @kurtelster
+- What does the app do?
+  * Free Gift with Purchase
+  * Allows for multiple campaigns, each campaign can be triggered by cart total or item in cart
+  * Campaigns allow for designating multiple free gift options
+- Does the app have a development store option
+  * I think so - always happy to help you get setup with a trial
+- Limitations
+  * Only your imagination
